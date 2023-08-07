@@ -17,7 +17,7 @@ Clone this repository to your local machine.
 Compile the Java files using **'javac ATM.java'**.
 Run the program.
 
-**Usage **
+**Usage**
 Upon starting the program, enter your PIN to access your account. 
 If you don't have an account, you'll be prompted to create one.
 Once logged in, you can select from various options available in the main menu, such as checking account balance, withdrawing money, depositing funds, and more.
